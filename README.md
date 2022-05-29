@@ -1,1 +1,5 @@
+-Pixy Camera 2
+  The ability to recognize objects has been a goal of computer scientists and AI researchers for decades. In the past, this has required large computers     running sophisticated software which has kept the technologies involved confined to labs and research departments with large budgets. Pixy is a fast       vision sensor you can quickly “teach” to find objects, and it connects directly to Arduino and other controllers. Pixy uses a hue-based color filtering     algorithm to detect objects. The Pixy2 is a small camera designed for object recognition, line tracking, and simple barcode reading. The Pixy2 is capable   of recognizing seven distinct objects based upon their shape and color (or hue).  Each of these objects is assigned a unique “signature”. The camera also   has algorithms for line following.
 
+-Arduino uno: 
+  Arduino UNO is a flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects.     This board can be interfaced with other Arduino boards, Arduino shields, Raspberry Pi boards and can control relays, LEDs, servos, and motors as an         outputs.
