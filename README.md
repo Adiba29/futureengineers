@@ -9,6 +9,6 @@
   
   -MG90S: 
     MG90S is a micro servo motor with metal gear. This small and lightweight servo comes with high output power, thus ideal for RC Airplane, Quadcopter or     Robotic Arms.
-  
+    
   - 3d printed part:
     were using a 3d printed part so we can attatch the micro server motor with lego parts to control the car.
