@@ -14,6 +14,6 @@ MG90S is a micro servo motor with metal gear. This small and lightweight servo c
 were using a 3d printed part so we can attatch the micro server motor with lego parts to control the car.
 
 DC geared motor:
-This small DC motor has a gearbox ratio of 1:48. The gearbox has a reduction in speed, which gives the engine much more power. These motors are ideal for robotic platforms, such as robotic cars. They go well with the 65mm rubber wheel. The motors have an input voltage between 3V and 6V, where a higher voltage gives more output. This motor has a return shaft on which a rotary encoder can be installed to read with high resolution how the motor is moving.
+The gearbox has a reduction in speed, which gives the engine much more power. These motors are ideal for robotic platforms, such as robotic cars. They go well with the 65mm rubber wheel. The motors have an input voltage between 3V and 6V, where a higher voltage gives more output. This motor has a return shaft on which a rotary encoder can be installed to read with high resolution how the motor is moving.
 
     
